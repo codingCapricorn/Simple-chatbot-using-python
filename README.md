@@ -1,2 +1,3 @@
 # Simple-chatbot-using-python
-Developing a chatbot using python language by asking simple questions and getting answers from the computer.
+
+Developed a simple chatbot using python language which can ask simple questions and answers using developed programs.
